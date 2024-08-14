@@ -1,3 +1,11 @@
+# Edusity
+Designed and developed a responsive website using HTML, CSS, React
+It is an educational site
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
