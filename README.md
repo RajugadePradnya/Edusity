@@ -1,5 +1,5 @@
 # Edusity
-Designed and developed a responsive website using HTML, CSS, React
+Designed and developed a responsive website using React
 It is an educational site
 
 
